@@ -1,16 +1,11 @@
 {
-    "name": "binary/database",
-    "description": "this is a MarkDown Handler ...",
+    "name": "binaryceo/database",
+    "description": "Database manager ...",
     "license": "MIT",
     "authors": [{
         "name": "Venus",
         "email": "bussinse@example.com"
     }],
-    "autoload": {
-        "psr-4": {
-            "stpar\\": "stpar"
-        }
-    },
     "require": {
         "php": ">=8.0.0"
     }
